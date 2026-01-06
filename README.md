@@ -1,5 +1,5 @@
 # Hello World, I'm Lucas Leandro de Paula
-### 🇧🇷 A Brazilian Fullstack Developer
+### A Brazilian Fullstack Developer
 
 I was an intern at **PRODAUB**, before that at **CODIUB**, and I am currently working on **PRODABEL** with a temporary contract.
 
