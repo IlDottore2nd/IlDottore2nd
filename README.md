@@ -68,6 +68,7 @@ const lucas = {
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlDottore2nd&theme=tokyonight" alt="GitHub profile summary" />
   <br />
   <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlDottore2nd&theme=tokyonight" alt="GitHub stats" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlDottore2nd&theme=tokyonight&v=2" alt="Most committed languages" />
 </div>
 
 <div align="center">
