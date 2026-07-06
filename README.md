@@ -67,8 +67,10 @@ const lucas = {
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IlDottore2nd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlDottore2nd&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlDottore2nd&theme=tokyonight" alt="GitHub profile summary" />
+  <br />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlDottore2nd&theme=tokyonight" alt="GitHub stats" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlDottore2nd&theme=tokyonight" alt="Most committed languages" />
 </div>
 
 <div align="center">
