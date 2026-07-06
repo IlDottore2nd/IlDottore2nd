@@ -1,8 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=Lucas%20Leandro&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Lucas Leandro" />
 
-  <h3>Brazilian Fullstack Developer</h3>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+developer+from+Brazil;Building+tools%2C+interfaces%2C+and+systems;Always+learning.+Always+shipping." alt="Typing SVG" />
 </div>
 
@@ -70,7 +68,6 @@ const lucas = {
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlDottore2nd&theme=tokyonight" alt="GitHub profile summary" />
   <br />
   <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlDottore2nd&theme=tokyonight" alt="GitHub stats" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlDottore2nd&theme=tokyonight" alt="Most committed languages" />
 </div>
 
 <div align="center">
